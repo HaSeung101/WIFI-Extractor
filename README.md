@@ -1,4 +1,4 @@
-# WIFI-Exaxtracor
+# WIFI-Extractor
 This simple Python script will extract WIFI SSID and Password.
 
 This requires no external libaries. It only uses "subprocess" module.
